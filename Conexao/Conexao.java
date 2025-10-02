@@ -51,9 +51,10 @@ public class Conexao {
                     rs.close();
                  }
             } catch (SQLException ex) {
-                Logger.getLogger(Conexao.class.getName()).log(Level.SEVERE, null, ex);
+               
             }
        
     }
 }
+
 
