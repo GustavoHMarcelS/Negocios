@@ -1,5 +1,5 @@
 package Conexao;
-import java.sql.Connection;
+
 import java.sql.SQLException;
 import java.sql.ResultSet;
 import java.sql.DriverManager;
@@ -56,4 +56,5 @@ public class Conexao {
        
     }
 }
+
 
