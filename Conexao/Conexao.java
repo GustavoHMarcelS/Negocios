@@ -8,7 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 
-public class Conexao {
+public class Conexao
     private static final String Driver = "com.mysql.cj.jdbc.Driver";
     private static final String Url = "jdbc:mysql://localhost/alexandria1";
     private static final String User = "root";
@@ -56,4 +56,5 @@ public class Conexao {
        
     }
 }
+
 
